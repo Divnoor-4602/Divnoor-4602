@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divnoor Singh Nagra
-- 👀 I’m interested in ...
+- 👀 I’m interested in Python Development, Data Science and Machine Learning
 - 🌱 I’m currently learning python coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects and ideas
 - 📫 How to reach me email: divnoorsingh4602@gmail.com
 
 <!---
