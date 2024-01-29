@@ -13,10 +13,10 @@ I am currently focused on building full-stack projects to deepen my understandin
 - I am experimenting with ReactJS to create single-page applications.
 - I plan on exploring ML with Python soon.
 
-## Current Languages & Frameworks
+## ⌨️ Current Languages & Frameworks
 <img src="python.svg" width="50" height="50">&nbsp;  <img src="js.svg" width="50" height="50">&nbsp;  <img src="node.svg" width="50" height="50">&nbsp;  <img src="tailwind.svg" width="50" height="50">&nbsp; <img src="flask.svg" width="50" height="50">
 
-## ✨Fun Facts
+## ✨ Fun Facts
 
 - The first programming language I did was **scratch** back in middle school and did not even realise I was programming.
 - Bleach is my first and favourite anime.
