@@ -11,6 +11,7 @@ I am currently focused on building full-stack projects to deepen my understandin
 
 - I am exploring tailwind CSS to streamline my app-building process.
 - I am experimenting with ReactJS to create single-page applications.
+- I am focusing on learning advanced concepts of ExpressJS.
 - I plan on exploring ML with Python soon.
 
 ## ⌨️ Current Languages & Frameworks
