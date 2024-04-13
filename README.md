@@ -7,11 +7,11 @@ I'm a 21-year-old developer based in India, I am passionate about developing app
 
 ## 🔭 Current Endeavors
 
-I am currently focused on building full-stack projects to deepen my understanding of frontend as well as backend technologies and how different frameworks make interesting tech stacks.
+I am currently focused on building full-stack projects to deepen my understanding of frontend and backend technologies and how different frameworks make interesting tech stacks.
 
-- I am exploring tailwind CSS to streamline my app-building process.
+- I am working on Next JS projects to streamline my app-building process.
 - I am experimenting with ReactJS to create single-page applications.
-- I am focusing on learning advanced concepts of ExpressJS.
+- I am focusing on the AWS cloud computing exam.
 - I plan on exploring ML with Python soon.
 
 ## ⌨️ Current Languages & Frameworks
