@@ -1,6 +1,6 @@
 # Hey, I am Div 👋
 
-I'm a 21-year-old developer based in India, I am passionate about developing apps that intrigue me.
+I'm a 22-year-old developer based in India, I am passionate about developing apps that intrigue me.
 
 > [!NOTE]
 > Stay updated with my journey on [LinkedIn](www.linkedin.com/in/divnoor-singh-nagra) and [GitHub](https://github.com/Divnoor-4602) 
