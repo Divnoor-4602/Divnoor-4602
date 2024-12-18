@@ -1,30 +1,138 @@
-# Hey, I am Div 👋
+<h1 align="left">Hey, I am Div 👋</h1>
 
-I'm a 22-year-old developer based in India, I am passionate about developing apps that intrigue me.
+###
 
-> [!NOTE]
-> Stay updated with my journey on [LinkedIn](www.linkedin.com/in/divnoor-singh-nagra) and [GitHub](https://github.com/Divnoor-4602) 
+<p align="left">I love making apps and designs 🍥</p>
 
-## 🔭 Current Endeavors
+###
 
-I am currently focused on building full-stack projects to deepen my understanding of frontend and backend technologies and how different frameworks make interesting tech stacks.
+<h2 align="left">⚙️ What I like working with</h2>
 
-- I am working on Next JS projects to streamline my app-building process.
-- I am experimenting with ReactJS to create single-page applications.
-- I am focusing on the AWS cloud computing exam.
-- I plan on exploring ML with Python soon.
+###
 
-## ⌨️ Current Languages & Frameworks
-<img src="python.svg" width="50" height="50">&nbsp;  <img src="js.svg" width="50" height="50">&nbsp;  <img src="node.svg" width="50" height="50">&nbsp;  <img src="tailwind.svg" width="50" height="50">&nbsp; <img src="flask.svg" width="50" height="50">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+</div>
 
-## ✨ Fun Facts
+###
 
-- The first programming language I did was **scratch** back in middle school and did not even realise I was programming.
-- Bleach is my first and favourite anime.
-- As a kid, I wanted to be an astronaut 🧑‍🚀.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divnoor-4602&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 📞 Contact
+###
 
-For a quick response, DM me on [LinkedIn](www.linkedin.com/in/divnoor-singh-nagra)
+<h2 align="left">🎬 Recent projects</h2>
 
-For any professional inquiries, reach out via email at divnoorsinghnagra@gmail.com
+###
+
+<h3 align="left">SwiftStudy</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="20" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="20" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="20" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="20" alt="vercel logo"  />
+</div>
+
+###
+
+<p align="left">- 📚 AI-powered study app for better learning.  <br>- 🧠 Focused on retention with flashcard-based techniques.  <br>- 🎯 Helps tackle challenging material with ease.  <br>- 🚀 Designed to make studying simple and effective.</p>
+
+###
+
+<h3 align="left">MamaEase</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swift" height="20" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="20" alt="supabase logo"  />
+</div>
+
+###
+
+<p align="left">- 🤰 Pregnancy tracker to monitor every milestone.  <br>- 🧘 AI mood reports and journaling for mental well-being.  <br>- 📤 Share reports easily with loved ones.  <br>- 💬 Instant support for mothers when they need it most.</p>
+
+###
+
+<h2 align="left">🎵 Listen with me</h2>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/315vpcs37xu4fskjmfycc7vjl4qu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315vpcs37xu4fskjmfycc7vjl4qu&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">📞 Get in touch</h2>
+
+###
+
+<p align="left">✉️ divnoorsinghnagra@gmail.com</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/Divnoor-4602/Divnoor-4602/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="center">Follow my journey here 👇</h3>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/divnoor-singh-nagra" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
+  </a>
+  <a href="https://dev.to/divnoor4602" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="48" height="36" alt="devto logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram logo"  />
+  <a href="https://x.com/divandcode" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="36" alt="twitter logo"  />
+  </a>
+</div>
+
+###
